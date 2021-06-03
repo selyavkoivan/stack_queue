@@ -1,0 +1,17 @@
+﻿  THEATRE.cpp
+  THEATRES.cpp
+C:\Users\User\source\repos\пизда\пизда\THEATRES.cpp(113,15): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+C:\Users\User\source\repos\пизда\пизда\LIST.h(101,31): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\User\source\repos\пизда\пизда\LIST.h(93): message : во время компиляции функции-члена класс шаблон "void LIST<THEATRE>::del(A *)"
+          with
+          [
+              A=THEATRE
+          ]
+C:\Users\User\source\repos\пизда\пизда\THEATRES.cpp(465): message : выполняется компиляция ссылки на экземпляр шаблон функции "void LIST<THEATRE>::del(A *)"
+          with
+          [
+              A=THEATRE
+          ]
+C:\Users\User\source\repos\пизда\пизда\THEATRES.h(9): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "LIST<THEATRE>"
+  Создание кода...
+  пизда.vcxproj -> C:\Users\User\source\repos\пизда\Debug\пизда.exe
